@@ -88,3 +88,6 @@ plot(cij)
 
 ## For more information regrading the Dynamic Cross-Correlation Matrix please follow the following paper:
 **[Chapter Two - A beginner's guide to molecular dynamics simulations and the identification of cross-correlation networks for enzyme engineering](https://www.sciencedirect.com/science/article/pii/S0076687920301488?via%3Dihub)**
+Haoran Yu, Paul A. Dalby
+Methods in Enzymology, 643:15-49, 2020.
+DOI: [https://doi.org/10.1016/bs.mie.2020.04.020](https://doi.org/10.1016/bs.mie.2020.04.020)
