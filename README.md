@@ -16,7 +16,7 @@ Here we use the gmx command "trjconv" to extract the final XTC file.
 We will use Bio3D package from R to calculate the Dynamic Cross Correlation Matrix. But some pre-installation steps are required. The main tool that we requires is CATDCD. It is used to trasfer the XTC file into DCD format as Bio3D doesnt recognise the XTC format.
 
 ## Step a)
-Download the Bio3D package from [here](http://www.ks.uiuc.edu/Development/MDTools/catdcd/)
+Download the CatDCD package from [here](http://www.ks.uiuc.edu/Development/MDTools/catdcd/)
 
 ## Steb b)
 Once you have downloaded the package then extract it in your choice of folder.
